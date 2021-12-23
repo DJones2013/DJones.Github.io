@@ -1,0 +1,47 @@
+header {
+  background-color: grey;
+  margin: 0;
+  color: white;
+  font-family: Times New roman;
+  font-size: 25px;
+  padding: 60px 0 20px 20px;
+  text-align: center;
+}
+
+ h1 {
+  color: black;
+  font-family: Times New Roman;
+  text-align: center;
+}
+
+  h2 {
+  color: black;
+  font-family: Times New Roman;
+  text-align: center; 
+}
+
+h3 {
+  text-align: center;
+  font-family: Times New Roman;
+}
+
+P1{
+  color:black;
+  font-family: Times New Roman;
+  text-align: center;
+}
+
+P2{
+  color: black
+  font-family: Times New Roman;
+
+}
+P3{
+  color: black;
+font-family: Time New Roman;
+}
+
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color:orange; }
+a:active  { color: gold;  }
